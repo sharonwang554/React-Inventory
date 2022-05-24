@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "a",
+      "price": 0,
+      "type": "type",
+      "brand": "brand",
+      "id": 1
+    },
+    {
+      "name": "b",
+      "price": 0,
+      "type": "type",
+      "brand": "brand",
+      "id": 2
+    },
+    {
+      "name": "c",
+      "price": 0,
+      "type": "type3",
+      "brand": "brand3",
+      "id": 3
+    }
+  ]
+}
