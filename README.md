@@ -1,4 +1,4 @@
-# Disclaimer
+# Source
 This project was done for the purpose of learning Flask and the tutorial I followed be found here: https://www.techwithtim.net/tutorials/flask/ 
 
 ## Getting Started with Create React App
