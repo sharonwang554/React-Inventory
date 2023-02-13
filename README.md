@@ -1,5 +1,5 @@
 # Source
-This project was done for the purpose of learning Flask and the tutorial I followed be found here: https://www.techwithtim.net/tutorials/flask/ 
+This project was done for the purpose of learning React and the tutorial I followed be found here: https://www.youtube.com/watch?v=Ma6DRDIedVE&list=PLzMcBGfZo4-nRV61oEu3KfMwWKI571uPT
 
 ## Getting Started with Create React App
 
