@@ -1,3 +1,6 @@
+# Disclaimer
+This project was done for the purpose of learning Flask and the tutorial I followed be found here: https://www.techwithtim.net/tutorials/flask/ 
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
