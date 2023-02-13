@@ -1,5 +1,5 @@
 # Source
-This project was done for the purpose of learning React and the tutorial I followed be found here: https://www.youtube.com/watch?v=Ma6DRDIedVE&list=PLzMcBGfZo4-nRV61oEu3KfMwWKI571uPT
+This project was done for the purpose of learning React and the tutorial I followed be found here: https://www.youtube.com/watch?v=JD-age0BPVo&list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j
 
 ## Getting Started with Create React App
 
